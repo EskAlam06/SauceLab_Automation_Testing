@@ -70,13 +70,20 @@ This project contains Selenium WebDriver test scripts to automate and verify var
  • Ensure the Test_Login/Registration.py module with the login_to_saucedemo(driver) function is in your project folder
 
 2. Running Tests
+
   • Open a terminal or command prompt in your project directory
+
+
   • Run each test script individually using Python.
 
   Each Script Will-
+
   • Launch Microsoft Edge browser
+
   • Perform login automatically via login_to_saucedemo(driver)
+
   • Execute the respective tests
+
   • Close the browser upon completion
 
 
