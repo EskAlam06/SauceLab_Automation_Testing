@@ -11,7 +11,7 @@ This project contains Selenium WebDriver test scripts to automate and verify var
    - Uses a helper function to log in with valid credentials.
 
 2. **Product Verification** 
-   - Uses can Verify that products are displayed on the inventory page.
+   - User can Verify that products are displayed on the inventory page.
 
 3. **Inventory Sorting**
    - Sorting the inventory by price ( Low to High , High to Low) & Sorting by name ( A-Z, Z-A).
