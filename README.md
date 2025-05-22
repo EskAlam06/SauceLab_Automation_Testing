@@ -17,10 +17,10 @@ This project contains Selenium WebDriver test scripts to automate and verify var
    - Sorting the inventory by price ( Low to High , High to Low) & Sorting by name ( A-Z, Z-A).
 
 4. **Cart Details**
-    - Uses can verify item count in cart.
+    - User can verify item count in cart.
 
 5. **Add/Remove/View Product to Cart**  
-   - Adds/Remove/View the first available product from the inventory page to the shopping cart.
+   - Adds/Removes/Views the first available product from the inventory page to the shopping cart.
 
 6. **Navigate to Cart and Checkout**  
    - Opens the cart and initiates the checkout process.
