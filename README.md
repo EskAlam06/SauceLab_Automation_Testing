@@ -1,7 +1,7 @@
 # SauceLab_Automation_Testing
 
 ## 📋 Project Description
-This project contains Selenium WebDriver test scripts to automate and verify various functionalities on the SauceDemo website.
+This project contains Selenium WebDriver test scripts to automate and verify various functionalities on the SauceLab website.
 
 ---
 
